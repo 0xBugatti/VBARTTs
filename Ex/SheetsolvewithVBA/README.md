@@ -17,6 +17,8 @@
 
 - Python 3.x
 - `pywin32` library (install via `pip install pywin32`)
+- - `docx` library (install via `pip install python-docx`)
+
 
 ## 📦 Installation
 
@@ -39,6 +41,8 @@ Run the script from the command line with the following syntax:
 
 ```bash
 python sheetsolverwithvba.py <doc_path> <answers_path>
+python sheetsolverwithpy.py <doc_path> <answers_path> <outfile>
+
 ```
 
 ### Parameters:
